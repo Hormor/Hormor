@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-omoladehassan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omolade-hassan1)](https://www.linkedin.com/in/omolade-hassan1/) [![Twitter Badge](https://img.shields.io/badge/-@OmoladeHassan1-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/OmoladeHassan1)](https://twitter.com/OmoladeHassan1)
 
-I'm a Software Engineer and a Fasion Designer . I'm passionate about learning new things, sharing knowledge, documentation, web engineering, fashion designing, and others.I would love to build useful open-source projects and build technical communities.
+I'm a Software Engineer and a Fasion Designer . I'm passionate about learning new things, sharing knowledge, documentation, web engineering, fashion designing, and others. I would love to build useful open-source projects and build technical communities.
 
 
 **Here's a quick summary about me**:
